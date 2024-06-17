@@ -1,0 +1,40 @@
+.Menu h1 {
+    color: white;
+}
+
+.Menu {
+    padding: 10px;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .Menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+
+  }
+  
+  .Menu li {
+    margin-right: 20px;
+    list-style: none;
+    display: inline-block;
+  }
+  
+  .buttons{
+    color: #fff;
+    text-decoration: none;
+    
+  }
+  
+  .buttons:hover {
+    color: #ccc;
+  }
+  
+  .Menu {
+    background-color: #1c814a;
+  }
+  

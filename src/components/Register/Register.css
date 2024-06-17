@@ -1,0 +1,47 @@
+
+
+/* ClientRegisterForm.css */
+.client-register-form {
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 3%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .client-register-form-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .client-register-form-group {
+    margin-bottom: 20px;
+  }
+  
+  .client-register-form-label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .client-register-form-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .client-register-form-button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .client-register-form-button:hover {
+    background-color: #3e8e41;
+  }

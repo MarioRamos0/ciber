@@ -1,0 +1,22 @@
+.Zapatos {
+    padding: 20px;
+  }
+  
+  .Zapatos h1 {
+    margin-top: 0;
+  }
+  
+  .Zapatos ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .Zapatos li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .Zapatos li span {
+    margin-right: 20px;
+  }

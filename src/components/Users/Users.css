@@ -1,0 +1,38 @@
+.Usuarios {
+    width: 60%;
+    margin-left:20%;
+    margin-top:100px;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .Usuarios h1 {
+    color: #000000;
+    margin-bottom: 10px;
+  }
+  
+  .Usuarios ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .Usuarios li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .Usuarios li:last-child {
+    border-bottom: none;
+  }
+  
+  .Usuarios span {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .Usuarios span:first-child {
+    font-weight: bold;
+  }
